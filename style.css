@@ -237,7 +237,7 @@ img {
 
 @media (min-width: 768px) {
     :root {
-        --guter: 3rem;
+        --gutter: 3rem;
     }
 
     .menu {
